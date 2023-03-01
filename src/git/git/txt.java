@@ -9,5 +9,6 @@ public class txt {
         System.out.println("2222222222222222");
         System.out.println("2.2.7提交");
         System.out.println("远程库修改");
+        System.out.println("gitee远程库修改2");
     }
 }
