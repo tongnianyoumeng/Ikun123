@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8a27b42-59e2-4cd5-bab2-a039a8f160dc" name="变更" comment="远程库修改">
+    <list default="true" id="d8a27b42-59e2-4cd5-bab2-a039a8f160dc" name="变更" comment="远程库修改2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/git/git/txt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/git/git/txt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/git/Ikun",
     "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
   }
 }]]></component>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677480169484</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="远程库修改2">
+      <created>1677654037605</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677654037605</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +137,7 @@
     <MESSAGE value="git new" />
     <MESSAGE value="2.27 提交" />
     <MESSAGE value="远程库修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="远程库修改" />
+    <MESSAGE value="远程库修改2" />
+    <option name="LAST_COMMIT_MESSAGE" value="远程库修改2" />
   </component>
 </project>
